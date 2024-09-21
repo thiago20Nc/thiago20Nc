@@ -8,4 +8,4 @@
 
 🌱 Open to contributing to open-source projects and expanding my experience in software development. 
 
-🔗 LinkedIn: [https://www.linkedin.com/in/thiago-novaes-2b030a244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+🔗 LinkedIn: [https://www.linkedin.com/in/thiago-novaes-carvalho-2b030a244/]
