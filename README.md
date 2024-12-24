@@ -1,11 +1,11 @@
-👋 Hi, I'm Thiago, a Systems Analysis and Development student passionate about technology and software engineering! 💻
+👋 Hi, I'm Thiago, a passionate Systems Analysis and Development graduate with a love for technology and software engineering! 💻
 
-🎓 Currently studying at UNIP, where I’m building strong foundations in programming languages like C, C#, Java, and SQL, along with knowledge of networks and operating systems.
+🎓 I graduated from UNIP, where I built strong foundations in C#/.NET, Java/Spring Boot, SQL, and operating systems. My focus is on back-end development, leveraging robust systems and efficient databases to solve complex challenges.
 
-🚀 Focused on both front-end and back-end development, and always looking to apply my academic projects' experience to real-world challenges.
+🚀 I thrive on applying my academic knowledge to real-world problems, creating innovative solutions that enhance processes and drive impactful results.
 
-📚 Constantly learning and eager to collaborate on innovative solutions that improve processes and drive results.
+📚 Lifelong learning is my mantra, and I'm always open to collaborating on exciting open-source projects to expand my expertise in back-end development.
 
-🌱 Open to contributing to open-source projects and expanding my experience in software development. 
+🌟 Let’s connect and build something great together!
 
 🔗 LinkedIn: [https://www.linkedin.com/in/thiago-novaes-carvalho-2b030a244/]
