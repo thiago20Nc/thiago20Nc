@@ -1,9 +1,14 @@
-👋 Hi, I'm Thiago Novaes!
+👋 Hi, I'm Thiago!
 💻 I'm a full stack developer passionate about technology and software development. I'm always looking for practical and innovative ways to solve real-world problems through code.
+
 🎓 I'm a graduate in Systems Analysis and Development, and I believe in continuous learning as the foundation of professional growth — constantly exploring new tools and approaches to deliver high-impact results.
+
 🚀 I have experience with C, C#, Java, Spring Boot, and strong knowledge of relational databases like SQL Server and MySQL.
+
 🌐 On the front-end, I work with HTML, CSS, JavaScript, and ASP.NET, building functional interfaces fully integrated with back-end systems.
+
 🔗 I'm focused on building robust, secure, and scalable REST APIs, ensuring efficient and high-quality communication between systems.
+
 ☁️ I also work with Azure, including deployments, service integration, and cloud-based solutions. 
 
 ---
