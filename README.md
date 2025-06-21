@@ -1,4 +1,5 @@
 👋 Hi, I'm Thiago!
+
 💻 I'm a full stack developer passionate about technology and software development. I'm always looking for practical and innovative ways to solve real-world problems through code.
 
 🎓 I'm a graduate in Systems Analysis and Development, and I believe in continuous learning as the foundation of professional growth — constantly exploring new tools and approaches to deliver high-impact results.
